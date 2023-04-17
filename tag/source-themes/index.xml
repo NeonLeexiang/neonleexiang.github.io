@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Source Themes | NeonLeexiang</title>
+    <link>https://example.com/tag/source-themes/</link>
+      <atom:link href="https://example.com/tag/source-themes/index.xml" rel="self" type="application/rss+xml" />
+    <description>Source Themes</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 05 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hue1fa31ed5a32e25c5f9433c308ac1721_26377_512x512_fill_lanczos_center_3.png</url>
+      <title>Source Themes</title>
+      <link>https://example.com/tag/source-themes/</link>
+    </image>
+    
+    <item>
+      <title>DLGSANet: Lightweight Dynamic Local and Global Self-Attention Networks for Image Super-Resolution</title>
+      <link>https://example.com/publication/arxiv_dlgsanet/</link>
+      <pubDate>Thu, 05 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/arxiv_dlgsanet/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DLGSANet: Lightweight Dynamic Local and Global Self-Attention Networks for Image Super-Resolution</title>
+      <link>https://example.com/publication/arxiv_dlgsanet_wofeature/</link>
+      <pubDate>Thu, 05 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/arxiv_dlgsanet_wofeature/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
